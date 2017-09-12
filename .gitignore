@@ -1,1 +1,6 @@
 .sass-cache
+*.rb
+*.css
+*.sass
+*.scss
+*.html
